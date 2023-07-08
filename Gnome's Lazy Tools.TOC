@@ -1,0 +1,10 @@
+  
+## Interface: 3.3.5a
+## Title: Gnome's Lazy Tools
+## Author: FirstGnome
+## Version: 1.0
+## Dependencies: Ace3
+
+<Embeds.xml>
+<Core.lua>
+<LICENSE.txt>
